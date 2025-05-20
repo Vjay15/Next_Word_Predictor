@@ -1,2 +1,2 @@
-# Transformer
-Learning Transformer By watchiing Umar Jamil's video on it
+# N-gram based next word prediction model 
+
