@@ -1,12 +1,12 @@
 # N-gram based next word prediction model
 
-A simple implementation of an N-gram based model with Kneser-Ney Smoothing for predicting the next word in a sequence of text. \
+A simple implementation of an N-gram based model with Kneser-Ney Smoothing for predicting the next word in a sequence of text. 
 
 Made this project as part of the NLP course in my University
 
 ## Overview
 
-This project implements a next word prediction system using N-gram language modeling. The model analyzes patterns in text sequences to predict the most likely word that follows a given context.
+This project implements a next word prediction system using N-gram language modeling. The model analyzes patterns in text sequences to predict the most likely word that follows a given context. It uses the Brown Corpus available in the nltk library as the dataset.
 
 ## Requirements
 
